@@ -86,8 +86,8 @@ Desde ahí puedes probar fácilmente los endpoints: crear, listar, actualizar y 
 - Si el puerto 8080 está en uso, puedes cambiarlo en el archivo `src/main/resources/application.properties`:
 
 ```properties
-server.port=8081```
-
+server.port=8081
+```
 ---
 
 ## 🗄️ B. Evaluación Desarrollo de Base de Datos Oracle
