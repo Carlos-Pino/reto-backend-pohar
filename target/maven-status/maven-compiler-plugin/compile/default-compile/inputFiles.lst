@@ -1,0 +1,10 @@
+C:\Users\seth3\eclipse-workspace\crud-estudiante\src\main\java\com\crud\estudiante\model\Estudiante.java
+C:\Users\seth3\eclipse-workspace\crud-estudiante\src\main\java\com\crud\estudiante\CrudEstudianteApplication.java
+C:\Users\seth3\eclipse-workspace\crud-estudiante\src\main\java\com\crud\estudiante\exception\GlobalExceptionHandler.java
+C:\Users\seth3\eclipse-workspace\crud-estudiante\src\main\java\com\crud\estudiante\exception\EmailDuplicadoException.java
+C:\Users\seth3\eclipse-workspace\crud-estudiante\src\main\java\com\crud\estudiante\controller\EstudianteController.java
+C:\Users\seth3\eclipse-workspace\crud-estudiante\src\main\java\com\crud\estudiante\repository\EstudianteRepository.java
+C:\Users\seth3\eclipse-workspace\crud-estudiante\src\main\java\com\crud\estudiante\config\SwaggerConfig.java
+C:\Users\seth3\eclipse-workspace\crud-estudiante\src\main\java\com\crud\estudiante\service\EstudianteService.java
+C:\Users\seth3\eclipse-workspace\crud-estudiante\src\main\java\com\crud\estudiante\dto\EstudianteDTO.java
+C:\Users\seth3\eclipse-workspace\crud-estudiante\src\main\java\com\crud\estudiante\service\EstudianteServiceImpl.java
