@@ -1,6 +1,15 @@
-# 🎓 Proyecto: Microservicio CRUD de Estudiante
+# 🧪 Reto Técnico – Backend Developer  
+**Team Salesforce – POHAR**
 # Autor: Carlos Pino Uribe
 
+Este repositorio contiene la solución completa al reto técnico solicitado, dividido en dos partes:
+
+- **A. Desarrollo de Microservicios (Java Spring Boot)**
+- **B. Desarrollo de Base de Datos (Oracle)**
+
+---
+
+## 🧩 A. Evaluación Desarrollo Microservicios
 Este proyecto es un microservicio CRUD para gestionar estudiantes, implementado con Java 11, Spring Boot, JPA, H2 y Swagger para documentación interactiva.
 
 ---
@@ -13,6 +22,18 @@ Este proyecto es un microservicio CRUD para gestionar estudiantes, implementado 
 - JPA (Hibernate)
 - H2 (Base de datos en memoria)
 - Swagger 2.9.2 (documentación de API)
+
+#### 📦 Funcionalidad:
+Permite las operaciones básicas:
+- Crear estudiante
+- Obtener lista de estudiantes
+- Actualizar estudiante
+- Eliminar estudiante
+
+Validaciones:
+- Campos obligatorios (nombre, apellido, email, etc.)
+- El email debe ser único
+- Validaciones HTTP y errores personalizados
 
 ---
 
@@ -66,3 +87,36 @@ Desde ahí puedes probar fácilmente los endpoints: crear, listar, actualizar y 
 
 ```properties
 server.port=8081
+
+---
+
+## 🗄️ B. Evaluación Desarrollo de Base de Datos Oracle
+
+### 📂 Carpeta: `scripts-bd-oracle/`
+
+Esta carpeta contiene los scripts SQL solicitados para la evaluación de base de datos.
+
+#### 📁 Archivo incluído:
+
+- `script_asignacion_gestion` → Script de base de datos de toda la solución.
+
+#### 💡 Instrucciones:
+
+1. Abrir SQL Developer o cualquier cliente Oracle compatible.
+2. Ejecutar los scripts.
+
+> ⚠️ Estos scripts no están integrados directamente con el microservicio, son parte independiente de la evaluación de base de datos.
+
+---
+
+## 📁 Estructura del repositorio
+
+📁 reto-backend-pohar/ → Microservicio Spring Boot
+📁 scripts-bd-oracle/ → Scripts SQL de base de datos Oracle
+README.md → Documentación principal
+
+---
+
+## 👤 Autor
+
+Este proyecto fue desarrollado como parte de la evaluación técnica para el equipo **Salesforce – POHAR**.
